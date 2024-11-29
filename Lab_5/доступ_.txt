@@ -1,0 +1,4 @@
+login: Administrator
+password: fbb$0TeUnn;&E@YWzTi*-V.jx8dUY&cT
+url: ec2-13-60-218-198.eu-north-1.compute.amazonaws.com
+ip: 13.60.218.198
